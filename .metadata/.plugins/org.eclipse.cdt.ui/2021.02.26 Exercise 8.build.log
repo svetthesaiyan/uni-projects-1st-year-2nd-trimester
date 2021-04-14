@@ -1,0 +1,7 @@
+04:15:34 **** Rebuild of configuration Debug for project 2021.02.26 Exercise 8 ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o exercise_8.o "..\\exercise_8.cpp" 
+g++ -o "2021.02.26 Exercise 8.exe" exercise_8.o 
+
+04:15:35 Build Finished. 0 errors, 0 warnings. (took 1s.179ms)
+

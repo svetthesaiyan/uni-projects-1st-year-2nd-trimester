@@ -1,0 +1,11 @@
+04:21:37 **** Incremental Build of configuration Debug for project 2021.02.26 Exercise 9+4 ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o exercise_13.o "..\\exercise_13.cpp" 
+..\exercise_13.cpp: In function 'int main()':
+..\exercise_13.cpp:17:16: warning: comparison of integer expressions of different signedness: 'int' and 'std::__cxx11::basic_string<char>::size_type' {aka 'unsigned int'} [-Wsign-compare]
+   17 |  for(int i=0; i<Name.length(); i++)
+      |               ~^~~~~~~~~~~~~~
+g++ -o "2021.02.26 Exercise 9+4.exe" exercise_13.o 
+
+04:21:38 Build Finished. 0 errors, 1 warnings. (took 1s.41ms)
+

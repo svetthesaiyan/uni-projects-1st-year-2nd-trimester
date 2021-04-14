@@ -1,0 +1,7 @@
+03:25:07 **** Incremental Build of configuration Debug for project 2021.02.26 Exercise 9 ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o exercise_9.o "..\\exercise_9.cpp" 
+g++ -o "2021.02.26 Exercise 9.exe" exercise_9.o 
+
+03:25:08 Build Finished. 0 errors, 0 warnings. (took 1s.66ms)
+

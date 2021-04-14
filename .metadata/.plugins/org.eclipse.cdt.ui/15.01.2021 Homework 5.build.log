@@ -1,0 +1,5 @@
+17:05:24 **** Clean-only build of configuration Debug for project 15.01.2021 Homework 5 ****
+rm -rf homework_5.o homework_5.d "15.01.2021 Homework 5.exe" 
+
+17:05:24 Build Finished. 0 errors, 0 warnings. (took 218ms)
+

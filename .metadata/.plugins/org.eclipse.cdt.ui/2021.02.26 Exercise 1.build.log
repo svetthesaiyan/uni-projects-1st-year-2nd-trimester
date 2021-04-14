@@ -1,0 +1,6 @@
+17:35:17 **** Incremental Build of configuration Debug for project 2021.02.26 Exercise 1 ****
+Info: Internal Builder is used for build
+g++ -o "2021.02.26 Exercise 1.exe" exercise_1.o 
+
+17:35:17 Build Finished. 0 errors, 0 warnings. (took 378ms)
+

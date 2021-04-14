@@ -1,0 +1,7 @@
+21:30:11 **** Rebuild of configuration Debug for project 2021.03.12 Exam Question ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o daking_is_a_king.o "..\\daking_is_a_king.cpp" 
+g++ -o "2021.03.12 Exam Question.exe" daking_is_a_king.o 
+
+21:30:13 Build Finished. 0 errors, 0 warnings. (took 1s.569ms)
+

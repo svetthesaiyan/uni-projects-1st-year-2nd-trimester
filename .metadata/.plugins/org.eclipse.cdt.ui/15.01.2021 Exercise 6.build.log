@@ -1,0 +1,5 @@
+17:05:22 **** Clean-only build of configuration Debug for project 15.01.2021 Exercise 6 ****
+rm -rf "15.01.2021 Exercise 6.exe" exercise_6.o exercise_6.d 
+
+17:05:22 Build Finished. 0 errors, 0 warnings. (took 225ms)
+

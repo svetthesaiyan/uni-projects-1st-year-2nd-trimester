@@ -1,0 +1,17 @@
+15:37:06 **** Incremental Build of configuration Debug for project 2021.03.05 Exercise 5 ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o exercise_5.o "..\\exercise_5.cpp" 
+..\exercise_5.cpp: In function 'void bubbleSort(Student*, int)':
+..\exercise_5.cpp:31:17: error: 'strcmp' was not declared in this scope
+   31 |             if (strcmp, (st[j-1].name, st[j].name)>0)
+      |                 ^~~~~~
+..\exercise_5.cpp:3:1: note: 'strcmp' is defined in header '<cstring>'; did you forget to '#include <cstring>'?
+    2 | #include<iomanip>
+  +++ |+#include <cstring>
+    3 | using namespace std;
+..\exercise_5.cpp:31:34: warning: left operand of comma operator has no effect [-Wunused-value]
+   31 |             if (strcmp, (st[j-1].name, st[j].name)>0)
+      |                          ~~~~~~~~^~~~
+
+15:37:07 Build Failed. 1 errors, 1 warnings. (took 702ms)
+
